@@ -1,0 +1,33 @@
+{
+    "General": {
+        "id": "1",
+        "title": "O som das palavras [Um mundo de letras] ",
+        "description": "Apresenta o episódio da série Um mundo de letras, da TV Escola. Mostra a importância do hábito de leitura e escrita na educação das crianças e as dúvidas dos alunos quanto à ortografia das palavras. Apresenta para educadores e professores que sua ação é fundamental para orientar o aluno na descoberta da nova linguagem",
+        "keywords": "Métodos e Técnicas de Ensino, Educação infantil, Linguagem escrita",
+        "acessibility": "médio"
+            "identtifier": {
+                "catalog": "Domínio Público",
+                "entry": "http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=50425",
+                "language": "pt_BR"
+            }
+            "technical": {
+                "location": "http://portalmechomologa.c3sl.ufpr.br/learning_objects/2402",
+                "format": "video"
+            }
+	       	"educational": {
+                "description": "Deve ser usado para formação de professores para compreender a importancia do seu papel na descoberta da linguagem escrita ",
+            }
+            "rights": {
+                "copyrightAndOhterRestrictions":"true",
+                "cost": "false",
+                "description": "Livre"
+            } 
+            "metametadata": {
+                "contribute" {
+                    "creator":"Rafael Escrich",
+                    "date": "06/04/2016"
+                }
+                "language": "pt_BR"
+            }
+    }
+}
